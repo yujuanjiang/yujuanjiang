@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 # <p align="center">   📫  How to reach me 📫 
 
-# <p align="center">  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&labelColor=DA70D6)](https://linkedin.com/in/yujuanjiang)  [![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=flat&logo=instagram&logoColor=white&labelColor=DA70D6)](https://instagram.com/ceciliadiary)  [![Contact Me](https://img.shields.io/badge/Contact_Me-FF69B4?style=flat&logo=gmail&logoColor=white&labelColor=DA70D6)](mailto:yj.jiang16@gmail.com)
-
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&labelColor=DA70D6" alt="LinkedIn">

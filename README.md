@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, this is Yujuan (Jade) 👩‍💻</h1>
+<h1 align="center">Hi 👋,  🅃🄷🄸🅂 🄸🅂 🅈🅄🄹🅄🄰🄽 (🄹🄰🄳🄴)  👩‍💻</h1>
 <h3 align="center">A full-time AI software engineer Based in Canada</h3>
 
 # ![Cyber_pink_girl](banner_pink_girl.gif)

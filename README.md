@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋,  🅃🄷🄸🅂 🄸🅂 🅈🅄🄹🅄🄰🄽 (🄹🄰🄳🄴)  👩‍💻</h1>
-<h3 align="center">A full-time AI software engineer Based in Canada</h3>
+<h1 align="center">ℍ𝕚 👋, 𝕋𝕙𝕚𝕤 𝕚𝕤 𝕐𝕦𝕛𝕦𝕒𝕟 👩‍💻</h1>
+<h3 align="center">𝔸 𝕗𝕦𝕝𝕝-𝕥𝕚𝕞𝕖 𝔸𝕀 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣 𝔹𝕒𝕤𝕖𝕕 𝕚𝕟 ℂ𝕒𝕟𝕒𝕕𝕒</h3>
 
 # ![Cyber_pink_girl](banner_pink_girl.gif)
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-# <p align="center">   📫  How to reach me 📫 
+# <p align="center">   📫  ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 📫 
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_USERNAME">

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, this is Yujuan (Jade) 👩‍💻</h1>
-<h3 align="center">A full-time AI software engineer from Canada</h3>
+<h3 align="center">A full-time AI software engineer Based in Canada</h3>
 
 # ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
 

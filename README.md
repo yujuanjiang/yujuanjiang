@@ -34,6 +34,20 @@ Here are some ideas to get you started:
 
 # <p align="center">  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&labelColor=DA70D6)](https://linkedin.com/in/yujuanjiang)  [![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=flat&logo=instagram&logoColor=white&labelColor=DA70D6)](https://instagram.com/ceciliadiary)  [![Contact Me](https://img.shields.io/badge/Contact_Me-FF69B4?style=flat&logo=gmail&logoColor=white&labelColor=DA70D6)](mailto:yj.jiang16@gmail.com)
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&labelColor=DA70D6" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?logo=instagram&logoColor=white&labelColor=DA70D6" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:yj.jiang16@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-FF69B4?logo=gmail&logoColor=white&labelColor=DA70D6" alt="Gmail">
+  </a>
+</p>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=codeman008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <div align=center> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>

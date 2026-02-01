@@ -45,7 +45,9 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-# ![Cyber_pink_girl](pink_avatar_transparent.png)
+<p align="center">
+  <img src="pink_avatar_transparent.png" alt="avatar" width="300" height="300">
+</p>
 
 
 # <h3 align="center">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h3>

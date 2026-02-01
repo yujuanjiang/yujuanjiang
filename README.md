@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, this is Yujuan (Jade) 👩‍💻</h1>
 <h3 align="center">A full-time AI software engineer Based in Canada</h3>
 
-# ![Mario_Gameplay](banner_pink_girl.mp4)
+# ![Cyber_pink_girl](banner_pink_girl.mp4)
 
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/codeman008/codeman008"><img src="https://hits.b3log.org/codeman008/codeman008.svg" ></a>

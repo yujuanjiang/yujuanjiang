@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="pink_avatar_transparent.png" alt="avatar" width="300" height="300">
+  <img src="pink_avatar_transparent2.png" alt="avatar" width="300" height="300">
 </p>
 
 

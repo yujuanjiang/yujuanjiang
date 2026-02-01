@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 # <p align="center">   📫  ℍ𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖 📫 
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://linkedin.com/in/yujuanjiang">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?logo=linkedin&logoColor=white&labelColor=DA70D6" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/ceciliadiary">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?logo=instagram&logoColor=white&labelColor=DA70D6" alt="Instagram">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -45,10 +45,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=codeman008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-<div align=center> <img width="300" height="200" src="https://github.com/codeman008/codeman008/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
-
+# ![Cyber_pink_girl](pink_avatar.png)
 
 
 # <h3 align="center">𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕋𝕠𝕠𝕝𝕤</h3>

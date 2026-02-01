@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 </p>
 
 
-# <p align="center">  How to reach me 📫 yj dot jiang16 at gmail dot com 📫
+# <p align="center">   📫  How to reach me 📫 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white&labelColor=DA70D6)](https://linkedin.com/in/YOUR_USERNAME)
+# <p align="center">   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white&labelColor=DA70D6)](https://linkedin.com/in/yujuanjiang)
+[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=flat&logo=instagram&logoColor=white&labelColor=DA70D6)](https://instagram.com/ceciliadiary)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-FF69B4?style=flat&logo=gmail&logoColor=white&labelColor=DA70D6)](mailto:yj.jiang16@gmail.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=codeman008&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
